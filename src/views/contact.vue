@@ -63,9 +63,9 @@ I’m Taha , a Master’s student in Distributed Information Systems & Security 
      <div class="me-stats">
      <cards :num="29" info="Projects"/>
      <hr id="swmi-hr">
-     <cards :num="5" info="Technologies"/>
+     <cards :num="7" info="Technologies"/>
      <hr id="swmi-hr">
-     <cards :num="8" info="Advanced Courses"/>
+     <cards :num="9" info="Advanced Courses"/>
 
      </div>
    </div>
